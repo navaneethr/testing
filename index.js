@@ -1,3 +1,3 @@
-var x = document.getElementById('#root');
-
-console.log('---> ', x);
+window.onload = function() {
+  console.log('---> Hey')
+};
